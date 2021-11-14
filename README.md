@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanya-nantsa
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning Julia
 - 📫 How to reach me: by email at tanyanantsa@hotmail.com
 
